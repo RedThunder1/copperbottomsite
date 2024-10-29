@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/copperbottomsite/static/css/main.97ecda79.css",
+    "main.js": "/copperbottomsite/static/js/main.fb836180.js",
+    "index.html": "/copperbottomsite/index.html",
+    "main.97ecda79.css.map": "/copperbottomsite/static/css/main.97ecda79.css.map",
+    "main.fb836180.js.map": "/copperbottomsite/static/js/main.fb836180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ecda79.css",
+    "static/js/main.fb836180.js"
+  ]
+}
