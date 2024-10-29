@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/copperbottomsite/static/css/main.97ecda79.css",
-    "main.js": "/copperbottomsite/static/js/main.fb836180.js",
+    "main.js": "/copperbottomsite/static/js/main.31f9303d.js",
     "index.html": "/copperbottomsite/index.html",
     "main.97ecda79.css.map": "/copperbottomsite/static/css/main.97ecda79.css.map",
-    "main.fb836180.js.map": "/copperbottomsite/static/js/main.fb836180.js.map"
+    "main.31f9303d.js.map": "/copperbottomsite/static/js/main.31f9303d.js.map"
   },
   "entrypoints": [
     "static/css/main.97ecda79.css",
-    "static/js/main.fb836180.js"
+    "static/js/main.31f9303d.js"
   ]
 }
