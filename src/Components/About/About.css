@@ -1,0 +1,15 @@
+.mission-statement {
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    padding: 30px 80px 40px 80px;
+}
+
+.services {
+    position: absolute;
+    left: 25%;
+    width: 300px;
+    white-space: pre-wrap;
+    font-size: 22px;
+    color: white;
+}

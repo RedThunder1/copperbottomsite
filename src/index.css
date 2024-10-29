@@ -1,0 +1,42 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.root {
+    width: 100vw;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    line-height: 1.7;
+
+}
+
+h1, h2, h3 {
+    color: #f4f4f4;
+    font-weight: bolder;
+    line-height: 1.2;
+}
+
+p {
+    white-space: pre;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+}

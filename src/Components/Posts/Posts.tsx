@@ -1,13 +1,13 @@
 import React from 'react'
-import './Home.css'
+import './Posts.css'
 
-function Home() {
+function Posts() {
     return (
-        <div className="home">
-            <h1>Welcome to Copperbottom</h1>
+        <div className="posts_div">
+            <input className="posts_input" type="text" placeholder="Explore Posts and Users"></input>
             <div className="line"></div>
-            <div className="description">Your goto place for worker support and services!</div>
-            <div className="posts">
+            <p className="featured">Featured Posts</p>
+            <div className="posts" id="posts">
                 <ul className="posts_list">
                     <li className="post_item">
                         <div className="post_photo">Photo</div>
@@ -51,4 +51,4 @@ function Home() {
     );
 }
 
-export default Home;
+export default Posts;

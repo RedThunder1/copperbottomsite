@@ -1,0 +1,27 @@
+.posts_div {
+    height: 100%;
+}
+
+.featured {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.posts_input {
+    position: relative;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #2d3143;
+    border: none;
+    outline: none;
+    margin: 30px;
+    left: 10%;
+    color: rgba(255, 255, 255, 0.27);
+    text-align: center;
+}
+
+#posts {
+    margin-top: 20px;
+}
