@@ -4,7 +4,7 @@ import './About.css'
 function About() {
     return (
         <div className="about">
-            <h1>We are Copperbottom</h1>
+            <h1>We are Thankify</h1>
             <div className="line"></div>
             <div className="mission-statement"> Our value as a company is to find a need in our society and fix it.
                 When it comes to technology and ethics, there is a catchup that needs to desperately happen.

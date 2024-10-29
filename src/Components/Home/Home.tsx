@@ -4,7 +4,7 @@ import './Home.css'
 function Home() {
     return (
         <div className="home">
-            <h1>Welcome to Copperbottom</h1>
+            <h1>Welcome to Thankify</h1>
             <div className="line"></div>
             <div className="description">Your goto place for worker support and services!</div>
             <div className="posts">
